@@ -6,7 +6,7 @@ Este repositorio contiene una pequeña aplicación Java de ejemplo para la gesti
 
 Metadatos
 ---------
-- Autor: [TU NOMBRE]
+- Autor: Sebastian Oliver
 - Versión: 1.0.0
 
 Estructura del proyecto
